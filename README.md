@@ -147,7 +147,9 @@ Here is the ER Diagram of the ShopEZ E-commerce System:
 ---
 
 ## **Contributors**
-- **Krishnaveni K** – Developer and Project Lead
+- **Krishnaveni K**
+- **Karunya**
+- **Lakshitha**
 Feel free to contribute to the project by creating issues, submitting pull requests, or suggesting enhancements!
 
 ---
